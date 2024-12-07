@@ -13,7 +13,7 @@ from beancount_importers.bank_classifier import payee_to_account_mapping
 # from beancount_paypal import PaypalImporter, lang
 
 # locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-locale.setlocale(locale.LC_ALL, 'de_DE.UTF-8')
+# locale.setlocale(locale.LC_ALL, 'de_DE.UTF-8')
 # locale.setlocale(locale.LC_MONETARY, 'currency_symbol', 'EUR')
 
 # CONFIG = [
