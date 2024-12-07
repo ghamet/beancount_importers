@@ -1,0 +1,15 @@
+
+"Umstze Girokonto";"Zeitraum: 01.01.2020 - 31.12.2020";
+
+
+"Buchungstag";"Wertstellung (Valuta)";"Vorgang";"Buchungstext";"Umsatz in EUR";
+"01.11.2022";"31.10.2022";"Kontofhrungsentgelt";" Buchungstext: Entgelt Visa-Kreditkarte Zeitraum: 01.10.2022 bis 31.10.2022 Ref. AG2C1EP929CFAP8T/674184";"-1,90";
+"01.11.2022";"01.11.2022";"Lastschrift / Belastung";"Auftraggeber: comdirect Visa-Monatsabrechnung Buchungstext: SUMME MONATSABRECHNUNG VISA 0,0000000 0121660459 Ref. JQ22230553200470/270431";"-16,27";
+"01.11.2022";"01.11.2022";"bertrag / berweisung";"Empfnger: Monika HametnerKto/IBAN: AT791995094664187070 BLZ/BIC: WUBUAT2SXXX  Buchungstext: Bauspardarlehen Ref. I522230523927419/2";"-300,00";
+"01.11.2022";"01.11.2022";"Lastschrift / Belastung";"Auftraggeber: ALTE LEIPZIGER LEBEN Buchungstext: Vers-Nr:00008894325-Ihr Beitrag:11. 22 Ref. H2222301G2047244/54503";"-187,09";
+"01.11.2022";"01.11.2022";"Lastschrift / Belastung";"Auftraggeber: Allianz Lebensvers. AG Buchungstext: 334002475 1122 Hametner Veronika Ref. IL22230191910162/2561";"-50,00";
+"01.11.2022";"01.11.2022";"Lastschrift / Belastung";"Auftraggeber: CANADA LIFE ASSURANC Buchungstext: D1166358P D1166358 P Ref. I922230071945612/2335";"-302,52";
+"01.11.2022";"01.11.2022";"Lastschrift / Belastung";"Auftraggeber: rhenag Rheinische Energie Aktiengesellschaft Buchungstext: 575.389.583-1 Abs. 10/2022 Schwalbe nstr. 98, Ottobrunn Ref. IC22230473653884/17421";"-106,00";
+
+
+
